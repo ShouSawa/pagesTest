@@ -1,1 +1,2 @@
 # pagesTest
+Githubpagesを使ってみようとしてるだけのリポジトリ
